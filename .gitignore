@@ -1,4 +1,4 @@
-# Visual Studio / MSBuild output
+
 .vs/
 .vscode/
 bin/
@@ -7,12 +7,12 @@ obj/
 *.suo
 *.pdb
 
-# Local environment files
+
 .env
 .env.*
 !.env.example
 
-# Temporary operating system files
+
 Thumbs.db
 Desktop.ini
 .DS_Store
